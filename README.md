@@ -6,4 +6,4 @@ Puis, j'ai testé 3 manières pour prédire si une image représente un chien ou
 - KNN 
 - CNN 
 
-Puis nous les avons comparé et on a remarqué que le CNN donnait un meilleur taux de précisions et d'exécution. 
+Puis je les ai comparés et j'ai remarqué que le CNN donnait un meilleur taux de précisions et d'exécution. 
